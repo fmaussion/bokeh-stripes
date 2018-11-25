@@ -1,0 +1,7 @@
+dependencies:
+  - conda-forge::jupyter
+  - conda-forge::requests
+  - conda-forge::pandas
+  - pyviz::holoviews
+  - bokeh::bokeh
+
